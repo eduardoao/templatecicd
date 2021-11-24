@@ -25,3 +25,6 @@ D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\TemplateCICDWebApi.dll
 D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\ref\TemplateCICDWebApi.dll
 D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\TemplateCICDWebApi.pdb
 D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\TemplateCICDWebApi.genruntimeconfig.cache
+D:\CODE\TemplateCICD\TemplateWebApi\bin\Debug\net5.0\global.json
+D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\TemplateCICDWebApi.csproj.AssemblyReference.cache
+D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\staticwebassets\TemplateCICDWebApi.StaticWebAssets.xml

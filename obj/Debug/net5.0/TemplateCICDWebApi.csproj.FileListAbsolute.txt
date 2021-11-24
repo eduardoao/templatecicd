@@ -20,7 +20,6 @@ D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\TemplateCICDWebApi.MvcAppli
 D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\scopedcss\bundle\TemplateCICDWebApi.styles.css
 D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\staticwebassets\TemplateCICDWebApi.StaticWebAssets.Manifest.cache
 D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\TemplateCICDWebApi.RazorTargetAssemblyInfo.cache
-D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\TemplateCICDWebApi.csproj.CopyComplete
 D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\TemplateCICDWebApi.dll
 D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\ref\TemplateCICDWebApi.dll
 D:\CODE\TemplateCICD\TemplateWebApi\obj\Debug\net5.0\TemplateCICDWebApi.pdb

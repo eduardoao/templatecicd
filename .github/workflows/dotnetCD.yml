@@ -40,6 +40,7 @@ jobs:
           files: 'appsettings.json'
         env:
           ConnectionStrings.DefaultConnection: ${{ secrets.DB_CONNECTION_STRING}} #Podemos pegar a string de conneção do secret 
+      # Essa parte é para realizar o deploy no PAAS do heroku
       - uses: akhileshns/heroku-deploy@v3.12.12 #<-- módulo feito por akhileshns. Com ele é possível fazer o deploy no heroku
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}

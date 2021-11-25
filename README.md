@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Template CICD .NetCore
@@ -86,3 +87,6 @@ Projeto criado para servir de guia para implementação de soluções .NetCore W
 ## Badges
 
 [![.NET CD](https://github.com/eduardoao/testandotemplatecicd/actions/workflows/dotnetCD.yml/badge.svg)](https://github.com/eduardoao/testandotemplatecicd/actions/workflows/dotnetCD.yml)
+=======
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+>>>>>>> a4302252555229cd9f800ceb5bf0006a769c5af1

@@ -37,7 +37,7 @@ jobs:
       - name: App Settings Variable Substitution #Feature da MS. Chamada Verb substitution
         uses: microsoft/variable-substitution@v1
         with:
-          files: './Api/appsettings.json'
+          files: './api/appsettings.json'
         env:
           ConnectionStrings.DefaultConnection: ${{ secrets.DB_CONNECTION_STRING}} #Podemos pegar a string de conneção do secret 
       # Essa parte é para realizar o deploy no PAAS do heroku

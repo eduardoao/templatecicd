@@ -12,7 +12,7 @@ namespace TemplateCICDWebApi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Cracking", "Bracing", "Chilly", "Cooling", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Cracking", "Bracing", "Chilly", "Cooling", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "TesteVSOnline"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;

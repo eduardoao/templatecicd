@@ -6,11 +6,7 @@
 Projeto criado para servir de guia para implementação de soluções .NetCore Web Api em um ciclo de entrega contínua. 
 
 
-
-
-
  ![Logo](https://miro.medium.com/max/800/1*jPpc7KUl1OgsjvdkY6DuQQ.png)
-
 
 
 

@@ -1,6 +1,6 @@
 using System;
 
-namespace TemplateCICDWebApi
+namespace Api
 {
     public class WeatherForecast
     {
